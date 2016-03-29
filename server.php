@@ -1,5 +1,5 @@
 <?php
-$host = '64.233.182.141'; //host
+$host = '172.18.0.1'; //host
 $port = '8080'; //port
 $null = NULL; //null var
 
